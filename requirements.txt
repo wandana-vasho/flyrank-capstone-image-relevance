@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+requests
+pillow
+pytest
+httpx
+google-generativeai
